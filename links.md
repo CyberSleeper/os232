@@ -12,3 +12,6 @@ Generate RSA keypair.
 
 3. [SSH Part 2](https://osp4diss.vlsm.org/osp-111.html)<br>
 Put public key in GH.
+
+4. [OS Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt)<br>
+OS codes for log
