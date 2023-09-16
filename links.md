@@ -15,3 +15,12 @@ Put public key in GH.
 
 4. [OS Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt)<br>
 OS codes for log
+
+5. [Dennis Ivy](https://www.youtube.com/c/DennisIvy)<br>
+Good Youtube channel to learn Django
+
+6. [Suisei Channel](https://www.youtube.com/@HoshimachiSuisei)<br>
+My favorite vtuber, Suisei Hoshimachi's Youtube Channel
+
+7. [Metabase](https://www.metabase.com)
+Tool for data visualization
