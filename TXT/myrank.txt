@@ -1,4 +1,5 @@
 # WEEKLY 3 of 10 RANKS
-ZCZC W02 edbert2397 
-ZCZC W02 Metry630 
+# Check https://os.vlsm.org/Log/
+ZCZC W02 edbert2397
+ZCZC W02 Metry630
 ZCZC W02 ArvinCS
