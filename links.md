@@ -24,3 +24,12 @@ My favorite vtuber, Suisei Hoshimachi's Youtube Channel
 
 7. [Metabase](https://www.metabase.com)
 Tool for data visualization
+
+8. [Change Linux Username](https://www.linuxuprising.com/2019/04/how-to-change-username-on-ubuntu-debian.html)
+It seems fairly simple, but changing username may lead to another complex problem if not done properly.
+
+9. [5D Vector](https://3d.bk.tudelft.nl/projects/geo5d/)
+Idk, just, I got the inspiration of deriving the 5th dimension from 4th dimension (time) based on that blog.
+
+10. [Breaking Kitchen](https://youtube.com/playlist?list=PLDrM0Ni-Vp2xTu1Wp05P-pLfCxBKCqyVH&si=QkRR8gneHiuAY-Ed)
+When Los Pollos Hermanos met Gordon Ramsay

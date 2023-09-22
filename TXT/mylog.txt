@@ -14,4 +14,8 @@ ZCZC W01 50 L11 Week 01 Assignment
 ZCZC W01 40 L05 Study
 ZCZC W02 130 L05 Study
 ZCZC W02 40 L05 Exploring Linux
-ZCZC W02 150 L11 Week 02 Assignment
+ZCZC W02 150 L12 Week 02 Assignment
+ZCZC W03 100 L02 CLASSROOM
+ZCZC W03 100 L02 CLASSROOM
+ZCZC W03 180 L05 Exploring, destroying, and fixing my Linux
+ZCZC W03 120 L13 Week 03 Assignment
