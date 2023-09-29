@@ -21,3 +21,6 @@ ZCZC W03 180 L05 Exploring, destroying, and fixing my Linux
 ZCZC W03 120 L13 Week 03 Assignment
 ZCZC W03 120 L05 Study
 ZCZC W03 120 L05 Exploring, destroying, and fixing my Linux
+ZCZC W04 100 L02 CLASSROOM
+ZCZC W04 100 L14 Week 04 Assignment
+ZCZC W04 100 L05 Study

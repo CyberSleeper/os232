@@ -31,5 +31,8 @@ It seems fairly simple, but changing username may lead to another complex proble
 9. [5D Vector](https://3d.bk.tudelft.nl/projects/geo5d/)
 Idk, just, I got the inspiration of deriving the 5th dimension from 4th dimension (time) based on that blog.
 
-10. [Breaking Kitchen](https://youtube.com/playlist?list=PLDrM0Ni-Vp2xTu1Wp05P-pLfCxBKCqyVH&si=QkRR8gneHiuAY-Ed)
+10.  [Breaking Kitchen](https://youtube.com/playlist?list=PLDrM0Ni-Vp2xTu1Wp05P-pLfCxBKCqyVH&si=QkRR8gneHiuAY-Ed)
 When Los Pollos Hermanos met Gordon Ramsay
+
+11. [Node.js for Debian and Ubuntu](https://github.com/nodesource/distributions#debian-and-ubuntu-based-distributions)
+Normally we could only install Node 12 in Ubuntu. But using this distribution, we could install the latest Node version.
