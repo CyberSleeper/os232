@@ -22,17 +22,17 @@ Good Youtube channel to learn Django
 6. [Suisei Channel](https://www.youtube.com/@HoshimachiSuisei)<br>
 My favorite vtuber, Suisei Hoshimachi's Youtube Channel
 
-7. [Metabase](https://www.metabase.com)
+7. [Metabase](https://www.metabase.com)<br>
 Tool for data visualization
 
-8. [Change Linux Username](https://www.linuxuprising.com/2019/04/how-to-change-username-on-ubuntu-debian.html)
+8. [Change Linux Username](https://www.linuxuprising.com/2019/04/how-to-change-username-on-ubuntu-debian.html)<br>
 It seems fairly simple, but changing username may lead to another complex problem if not done properly.
 
-9. [5D Vector](https://3d.bk.tudelft.nl/projects/geo5d/)
+9. [5D Vector](https://3d.bk.tudelft.nl/projects/geo5d/)<br>
 Idk, just, I got the inspiration of deriving the 5th dimension from 4th dimension (time) based on that blog.
 
-10. [Breaking Kitchen](https://youtube.com/playlist?list=PLDrM0Ni-Vp2xTu1Wp05P-pLfCxBKCqyVH&si=QkRR8gneHiuAY-Ed)
+10. [Breaking Kitchen](https://youtube.com/playlist?list=PLDrM0Ni-Vp2xTu1Wp05P-pLfCxBKCqyVH&si=QkRR8gneHiuAY-Ed)<br>
 When Los Pollos Hermanos met Gordon Ramsay
 
-11. [Node.js for Debian and Ubuntu](https://github.com/nodesource/distributions#debian-and-ubuntu-based-distributions)
+11. [Node.js for Debian and Ubuntu](https://github.com/nodesource/distributions#debian-and-ubuntu-based-distributions)<br>
 Normally we could only install Node 12 in Ubuntu. But using this distribution, we could install the latest Node version.
