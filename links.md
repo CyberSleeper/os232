@@ -36,3 +36,6 @@ When Los Pollos Hermanos met Gordon Ramsay
 
 11. [Node.js for Debian and Ubuntu](https://github.com/nodesource/distributions#debian-and-ubuntu-based-distributions)<br>
 Normally we could only install Node 12 in Ubuntu. But using this distribution, we could install the latest Node version.
+
+12. [Suge Anime](https://animesuge.to)<br>
+A website to watch anime since the former one has been banned.
