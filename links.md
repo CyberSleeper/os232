@@ -39,3 +39,6 @@ Normally we could only install Node 12 in Ubuntu. But using this distribution, w
 
 12. [Suge Anime](https://animesuge.to)<br>
 A website to watch anime since the former one has been banned.
+
+13. [Ado - Show in live concert](https://youtu.be/Igr6jQJEoNs?si=VMnQHkh9oQkCjeSZ)<br>
+Ado singing her new song, Show, in her live concert.
