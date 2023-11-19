@@ -43,5 +43,8 @@ A website to watch anime since the former one has been banned.
 13. [Ado - Show in live concert](https://youtu.be/Igr6jQJEoNs?si=VMnQHkh9oQkCjeSZ)<br>
 Ado singing her new song, Show, in her live concert.
 
-14. [How to Use SCP (Secure Copy)[https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/]<br>
+14. [How to Use SCP (Secure Copy)](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
 Gonna drop it here so I don't need to bother Google it again.
+
+15. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
+A great guide for installing Linux from scratch.
