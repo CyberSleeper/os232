@@ -48,3 +48,6 @@ Gonna drop it here so I don't need to bother Google it again.
 
 15. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
 A great guide for installing Linux from scratch.
+
+16. [Kernotex Youtube Channel](https://www.youtube.com/@Kernotex)<br>
+A Youtube channel with many helpful Linux-related videos.
